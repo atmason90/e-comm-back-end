@@ -79,12 +79,12 @@ Product.init(
 
 ## Technologies Used
 
-![JavaScript Badge](https://img.shields.io/badge/Language-JavaScript-yellow)  
-![Mysql Badge](https://img.shields.io/badge/Database-MySql-informational)  
-![Node.js Badge](https://img.shields.io/badge/Environment-Node.js-red)  
-![Express Badge](https://img.shields.io/badge/NPM-Express.js-green)  
-![Sequelize Badge](https://img.shields.io/badge/NPM-Sequelize-important)  
-![Dotenv Badge](https://img.shields.io/badge/NPM-dotenv-blueviolet)  
+![JavaScript Badge](https://img.shields.io/badge/Language-JavaScript-yellow)
+![Mysql Badge](https://img.shields.io/badge/Database-MySql-informational)
+![Node.js Badge](https://img.shields.io/badge/Environment-Node.js-red)
+![Express Badge](https://img.shields.io/badge/NPM-Express.js-green)
+![Sequelize Badge](https://img.shields.io/badge/NPM-Sequelize-important)
+![Dotenv Badge](https://img.shields.io/badge/NPM-dotenv-blueviolet)
 
 ## Questions
 
