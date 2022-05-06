@@ -6,13 +6,13 @@ GitHub Repository: https://github.com/atmason90/e-comm-back-end
 
 ## Table of Contents
 
-* [Description](#description)
-* [Application Demo](#application-demo)
-* [Usage Instructions](#usage-instructions)
-* [Code Examples](#code-examples)
-* [Technologies Used](#technologies-used)
-* [Questions](#questions)
-* [License](#license)
+* [Description](#description)  
+* [Application Demo](#application-demo)  
+* [Usage Instructions](#usage-instructions)  
+* [Code Examples](#code-examples)  
+* [Technologies Used](#technologies-used)  
+* [Questions](#questions)  
+* [License](#license)  
 
 ## Description
 
@@ -22,7 +22,8 @@ This application was built by configuring an Express.js API to use sequelize to 
 
 ## Application Demo
 
-
+Link to video demo of this application:  
+https://drive.google.com/file/d/1KBD6tlB82vbEWURTLGDzOHshITIDAft2/view?usp=sharing 
 
 ## Usage Instructions
 
@@ -78,12 +79,12 @@ Product.init(
 
 ## Technologies Used
 
-![JavaScript Badge](https://img.shields.io/badge/Language-JavaScript-yellow)
-![Mysql Badge](https://img.shields.io/badge/Database-MySql-informational)
-![Node.js Badge](https://img.shields.io/badge/Environment-Node.js-red)
-![Express Badge](https://img.shields.io/badge/NPM-Express.js-green)
-![Sequelize Badge](https://img.shields.io/badge/NPM-Sequelize-important)
-![Dotenv Badge](https://img.shields.io/badge/NPM-dotenv-blueviolet)
+![JavaScript Badge](https://img.shields.io/badge/Language-JavaScript-yellow)  
+![Mysql Badge](https://img.shields.io/badge/Database-MySql-informational)  
+![Node.js Badge](https://img.shields.io/badge/Environment-Node.js-red)  
+![Express Badge](https://img.shields.io/badge/NPM-Express.js-green)  
+![Sequelize Badge](https://img.shields.io/badge/NPM-Sequelize-important)  
+![Dotenv Badge](https://img.shields.io/badge/NPM-dotenv-blueviolet)  
 
 ## Questions
 
