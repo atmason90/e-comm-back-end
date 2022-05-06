@@ -1,5 +1,5 @@
 # E-Commerce Back-End
-
+![License Badge](https://img.shields.io/badge/License-MIT-blue)
 
 GitHub Repository: https://github.com/atmason90/e-comm-back-end 
 
